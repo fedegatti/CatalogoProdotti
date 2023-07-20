@@ -66,7 +66,7 @@
 </div>
 <p>Marcello</p> <br>
 <div class="titolo">
-	<h1>Mayone & Mayoni</h1>
+	<h1>Crochet Hand Made</h1>
 </div>
 	<div class="benvenuto">
 		<h3><em>Ciao <%=utenteLoggato.getEmail() %></em></h3> <br>
